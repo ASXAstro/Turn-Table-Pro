@@ -1,0 +1,18 @@
+schema_version = "1.0.0"
+
+# Unique identifier (must be lowercase, no spaces)
+id = "turntable_viewport_bridge_pro"
+version = "1.1.0"
+name = "Viewport TurnTable Sync"
+# Tagline must NOT end with a period or exclamation mark
+tagline = "Multi-instance synced turntable with smart dynamic pivots"
+maintainer = "UnrealBoy <astronavidul@gmail.com>"
+type = "add-on"
+
+# Minimum Blender version for Extensions
+blender_version_min = "4.2.0"
+
+# Must be exactly this for the Blender Extensions portal
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2026 UnrealBoy"]
+category = "3d-view"
